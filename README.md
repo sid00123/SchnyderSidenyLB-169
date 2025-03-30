@@ -50,6 +50,11 @@ docker compose -d
 - ✔️ Erstellung eines Albums
 - ✔️ Generierung eines Sharing-Links
 - ✔️ Daten bleiben nach Neustart erhalten
+- ✔️ Persitenz Neustart
+- ✔️ login-logout
+- ✔️ datenbank-intern
+- ✔️ ml-funktion
+- ✔️ docker-volumes
 
 ---
 
